@@ -1,0 +1,43 @@
+These are the saved and exported files from the WinIPAC4 utility (installed and ran on Debbie's PC) that reprogram the IPAC4 to output:
+
+I needed to avoid function and other keys since they are interpreted by the Mac
+before the program gets them. I think that some other keys (e.g., number pad
+digits) are translated by OSX before I get them).
+
+See IPAC files IPACmapping4.ipc (.xml and .raw versions are human readable)
+
+All of the following are printable on OSX
+
+Key     Base 10 integer value       SMEK connection     Pin
+a-z     97-122      <26 keys>       S1-S26              1COIN-3UP
+0-9     48-57       <10 keys>       S27-S36             3LEFT-4SW4
+
+<12 keys>
+'-'     45  Minus                   S37                 4SW5
+'.'     46  Period                  S38                 4SW6
+'='     61  Equal
+'['     91  Left square bracket
+']'     93  Right square bracket
+'\'     92  Back slash
+';'     59  Semicolon
+'''     39  Apostrophe
+'`'     96  Grave (backtick)
+','     44  Comma
+' '     32  Space
+'/'     47  Slash
+
+<7 keys - but not unique since translated to normal digits>
+'1'     49  Numpad 1 - returned as 1
+'2'     50  Numpad 2 - returned as 2
+'3'     51  Numpad 3 - returned as 3
+'4'     52  Numpad 4 - returned as 4
+'5'     53  Numpad 5 - returned as 5
+'6'     54  Numpad 6 - returned as 6
+'7'     55  Numpad 7 - returned as 7
+
+<1 key>
+ENTER   13  Enter - returned at 13  S39 (EXECUTE)       2COIN
+
+The order is clockwise around the board starting with 1COIN where 1COIN is on the upper left looking at the component side of the board.
+
+See http://www.ultimarc.com/winipacv2.html for programming info.

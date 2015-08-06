@@ -1,0 +1,67 @@
+I believe that the problem is electrical and that the USB does not
+get the key. Perhaps, the IPAC can't handle too many keys (> 23?).
+The device is self-powered from the USB. Is it possible that the
+current draw for too many switches always on is too much?
+
+
+As of here all works...
+
+Sequence: bglq
+Sorted:   bglq
+Active switches: 4
+Command: 
+[---] [---] [---] [---] [---] [---] [---] [---] 
+[S02] [S07] [S12] [S17] [---] [---] [---] [---] 
+[---] [---] [---] [---] [---] [---] [---] [---] 
+[---] [---] [---] [---] [---] [---] [---] [EXEC] 
+[---] [---] [---] [---] [---] [---] [---] [CLR ] 
+
+CLEARED. OK
+
+Entered this long sequence and pressed ENTER, but not response.
+I then pressed CLEAR, then ENTER and got the display below.
+
+97  'a'
+102  'f'
+107  'k'
+112  'p'
+117  'u'
+122  'z'
+52  '4'
+57  '9'
+98  'b'
+103  'g'
+108  'l'
+113  'q'
+118  'v'
+48  '0'
+53  '5'
+45  '-'
+99  'c'
+104  'h'
+109  'm'
+114  'r'
+119  'w'
+49  '1'
+54  '6'
+46  '.'
+100  'd'
+105  'i'
+110  'n'
+115  's'
+120  'x'
+50  '2'
+55  '7'
+46  '.'
+
+Sequence: afkpuz49bglqv05-chmrw16.dinsx27.
+Sorted:   -.01245679abcdfghiklmnpqrsuvwxz
+Active switches: 31
+Command: 
+[S01] [S06] [S11] [S16] [S21] [S26] [S31] [S36] 
+[S02] [S07] [S12] [S17] [S22] [S27] [S32] [S37] 
+[S03] [S08] [S13] [S18] [S23] [S28] [S33] [S38] 
+[S04] [S09] [S14] [S19] [S24] [S29] [S34] [EXEC] 
+[---] [---] [---] [---] [---] [---] [---] [CLR ] 
+
+

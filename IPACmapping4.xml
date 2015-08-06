@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<Boards>
+  <board1>
+    <Type>3</Type>
+    <delay>4</delay>
+    <pin00 ByteOne="28" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin01 ByteOne="5F" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin02 ByteOne="5E" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin03 ByteOne="5D" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin04 ByteOne="5C" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin05 ByteOne="5B" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin06 ByteOne="5A" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin07 ByteOne="59" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin08 ByteOne="38" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin09 ByteOne="2C" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin10 ByteOne="36" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin11 ByteOne="35" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin12 ByteOne="34" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin13 ByteOne="33" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin14 ByteOne="31" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin15 ByteOne="30" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin16 ByteOne="2F" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin17 ByteOne="2E" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin18 ByteOne="37" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin19 ByteOne="2D" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin20 ByteOne="26" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin21 ByteOne="25" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin22 ByteOne="24" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin23 ByteOne="23" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin24 ByteOne="22" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin25 ByteOne="21" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin26 ByteOne="20" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin27 ByteOne="1F" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin30 ByteOne="04" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin31 ByteOne="05" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin32 ByteOne="06" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin33 ByteOne="07" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin34 ByteOne="08" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin35 ByteOne="09" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin36 ByteOne="0A" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin37 ByteOne="0B" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin38 ByteOne="0C" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin39 ByteOne="0D" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin40 ByteOne="0E" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin41 ByteOne="0F" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin42 ByteOne="10" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin43 ByteOne="11" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin44 ByteOne="12" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin45 ByteOne="13" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin46 ByteOne="14" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin47 ByteOne="15" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin48 ByteOne="16" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin49 ByteOne="17" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin50 ByteOne="18" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin51 ByteOne="19" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin52 ByteOne="1A" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin53 ByteOne="1B" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin54 ByteOne="1C" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin55 ByteOne="1D" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin56 ByteOne="27" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+    <pin57 ByteOne="1E" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Key&#xA;" />
+  </board1>
+</Boards>
